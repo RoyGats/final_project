@@ -18,4 +18,5 @@ front:
 5. admin login info:
 email:eyal@gmail.com
 pw:123
-6. enjoy :)
+6. enjoy :)"# final_project" 
+"# final_project" 
